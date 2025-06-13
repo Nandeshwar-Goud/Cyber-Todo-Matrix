@@ -28,6 +28,15 @@ This is a todo project built with customtkinter.
   <li>tkcalendar</li>
 </ol>
 
+### Initial credentials in code
+<ul>
+  <li>host='localhost'</li>
+  <li>database='todo_db' </li>
+  <li>user='root' </li>         
+  <li>password='root' </li>
+  
+</ul>
+
 ### Database Schema
 
 
