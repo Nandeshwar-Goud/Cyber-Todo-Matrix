@@ -28,7 +28,7 @@ This is a todo project built with customtkinter.
   <li>tkcalendar</li>
 </ol>
 
-### Initial credentials in code
+### 🔑 Initial credentials in code
 <ul>
   <li>host='localhost'</li>
   <li>database='todo_db' </li>
@@ -37,14 +37,41 @@ This is a todo project built with customtkinter.
   
 </ul>
 
-### Database Schema
+### 🗄️ Database Schema
 
 
 ![Screenshot 2025-06-13 202125](https://github.com/user-attachments/assets/e1d94497-5399-4595-af78-02e6303629b9)
 
-### Screenshot Of UI
+### 📱 Screenshot Of UI
 
 ![Screenshot 2025-06-13 200747](https://github.com/user-attachments/assets/291c0a21-3ba0-4566-9317-522bd47e78a6)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
